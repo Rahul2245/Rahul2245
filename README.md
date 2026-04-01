@@ -35,4 +35,4 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul2245&theme=react-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2245&layout=donut&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul2245&theme=tokyonight)
