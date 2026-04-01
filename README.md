@@ -35,4 +35,4 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul2245&theme=react-dark)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul2245&theme=tokyonight)
+![overall summary](https://github-readme-stats.vercel.app/api?username=Rahul2245&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
