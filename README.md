@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rahul Gajula</h1>
-<h3 align="center"></h3>
+
+
+# Rahul Gajula
+*Software Developer . Backend Systems . AI Integrated Applications.*  
+
+*Computer Science Undergraduate @ Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABVIIITM) Gwalior.*
+
+
+---
+
+## Summary
+
+*I am a Pre-final Year Computer Science Undergraduate at IIIT Gwailor with a strong foundation across core Computer Science domains, including Data Structures & Algorithms, Operating Systems, Database Systems, Computer Networks, and System Design with 9.17 CGPA in my academic journey*
+
+---
 
 
 
