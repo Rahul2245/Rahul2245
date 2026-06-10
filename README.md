@@ -2,7 +2,7 @@
 
 # Rahul Gajula
 *Software Developer . Backend Systems . AI Integrated Applications.*  
-*Computer Science Undergraduate @ Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABVIIITM) Gwalior.*
+*Computer Science @ Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABVIIITM) Gwalior.*
 
 
 ---
