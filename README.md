@@ -107,22 +107,18 @@ Open to Open Source Contributions, collaborative projects, and building scalable
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul2245&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2245&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul2245&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul2245&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahul2245&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rahul2245&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul2245&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul2245&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul2245&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul2245&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rahul2245&style=for-the-badge&color=blueviolet"/>
 </p>
