@@ -27,6 +27,9 @@ I possess strong problem-solving skills, demonstrated through solving **500+ DSA
   <a href="https://www.linkedin.com/in/rahul-gajula-14b53a326" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+    <a href="https://drive.google.com/file/d/1ncuv3x0ldW6muHF0jNndaRMt2_o8xMMQ/view?usp=drive_link" target="_blank">
+    <img src="https://skillicons.dev/icons?i=googlecloud" />
+  </a>
 </p>
 Actively looking for Backend Development and SDE Internship opportunities. 
 Open to Open Source Contributions, collaborative projects, and building scalable Backend & AI-powered Systems.
